@@ -73,15 +73,12 @@ export const Pricing = () => {
         </div>
         <div className="flex flex-col gap-6 items-center mt-10 lg:flex-row lg:items-end lg:justify-center">
           {pricingTiers.map(
-            ({
-              title,
-              monthlyPrice,
-              buttonText,
-              popular,
-              inverse,
-              features,
-            }) => (
+            (
+              { title, monthlyPrice, buttonText, popular, inverse, features },
+              index
+            ) => (
               <div
+                key={index}
                 className={twMerge(
                   "card",
                   inverse === true && " border-black bg-black text-white"
