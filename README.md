@@ -26,8 +26,8 @@ https://pagina-de-destino-saas.vercel.app/
 
   ## Como Executar
 
-  1. Clone o repositório: `git clone https://github.com/matheusrodrigues1/Imaginefy`
-  2. Entre na pasta raiz do projeto: `cd imaginify`
+  1. Clone o repositório: `git clone https://github.com/matheusrodrigues1/PaginaDeDestino-SaaS/tree/new`
+  2. Entre na pasta raiz do projeto: `cd 'new arquivo'`
   3. Instale as dependência: `npm install`
   4. Rode o servidor: `npm run dev`
 
