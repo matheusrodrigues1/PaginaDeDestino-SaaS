@@ -1,4 +1,9 @@
 <div align="center">
+    <h3 align="center">Página de Destino</h3>
+
+  <div align="center">
+    Landing page que captura a atenção e deixa uma impressão duradoura. Com animações impressionantes e design responsivo usando ferramentas de ponta como React, Next.js, TailwindCSS e Framer Motion.
+  </div>
   <br />
     <a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank">
       <img src="screencapture-pagina-de-destino-saas-vercel-app-2024-08-29-14_36_57.png" alt="Project Banner">
@@ -11,12 +16,6 @@
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss1" />
-  </div>
-
-  <h3 align="center">Página de Destino</h3>
-
-  <div align="center">
-    Landing page que captura a atenção e deixa uma impressão duradoura. Com animações impressionantes e design responsivo usando ferramentas de ponta como React, Next.js, TailwindCSS e Framer Motion.
   </div>
 
 </br>
